@@ -11,3 +11,8 @@ Playing around with GAN(Generative Adversarial Networks).
 <td><img src = '/celeba/sample_images/animation.gif'>
 </tr>
 </table>
+
+References :
+
+GAN Paper : https://arxiv.org/abs/1406.2661
+DCGAN Paper : https://arxiv.org/abs/1411.1784
