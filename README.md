@@ -17,3 +17,5 @@ References :
 GAN Paper : https://arxiv.org/abs/1406.2661
 </br>
 DCGAN Paper : https://arxiv.org/abs/1411.1784
+</br>
+Conditionan Gan: https://arxiv.org/abs/1411.1784
