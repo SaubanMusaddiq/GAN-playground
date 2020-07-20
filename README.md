@@ -15,4 +15,5 @@ Playing around with GAN(Generative Adversarial Networks).
 References :
 
 GAN Paper : https://arxiv.org/abs/1406.2661
+</br>
 DCGAN Paper : https://arxiv.org/abs/1411.1784
