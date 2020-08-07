@@ -1,7 +1,7 @@
 # GAN-playground
 Playing around with GAN(Generative Adversarial Networks).
 
-<table align='center'>
+<table>
 <tr align='center'>
 <td> Mnist Generation </td>
 <td> CelebA Generation </td>
