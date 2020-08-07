@@ -11,7 +11,9 @@ Playing around with GAN(Generative Adversarial Networks).
 <td><img src = '/celeba/sample_images/animation.gif'>
 </tr>
 </table>
-## Dogbreed Dataset
+
+## Dogbreed Dataset 
+</br>
 Dataset: https://www.kaggle.com/c/generative-dog-images
 <table align=''>
 <tr align='center'>
@@ -25,6 +27,7 @@ Dataset: https://www.kaggle.com/c/generative-dog-images
 </table>
 
 References :
+</br>
 GAN Paper : https://arxiv.org/abs/1406.2661
 </br>
 DCGAN Paper : https://arxiv.org/abs/1411.1784
